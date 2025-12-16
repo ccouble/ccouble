@@ -1,7 +1,17 @@
-Hi, I'm an experienced Software Developer with experience in data, automation, saas. 
-I love building efficient and scalable solutions using modern technologies.
-The purpose of my job? In the heart of the data life cycle, my mission is to design, build, prepare and maintain the environment for collecting, storing, moving and processing data for their usage (Data Science, Analytics ...).
-I am amazed about how much a company can evolve & grow by making value from data, and excited to take part in this great turning point.
+# About Me
+
+Hi, I'm an experienced **Software Developer** with a strong background in **data, automation, and SaaS**.  
+I love building **efficient and scalable solutions** using modern technologies.
+
+## My Purpose
+
+At the heart of the **data life cycle**, my mission is to:
+
+- Design, build, and maintain environments for collecting, storing, moving, and processing data  
+- Enable data usage for **Data Science**, **Analytics**, and other business purposes  
+
+I am fascinated by how much a company can **evolve and grow** by creating value from data,  
+and I am excited to be part of this transformative journey.
 
 
 # 🚀 Tech Stack
