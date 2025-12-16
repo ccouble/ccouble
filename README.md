@@ -70,6 +70,9 @@ and I am excited to be part of this transformative journey.
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/-DuckDB-000000?style=for-the-badge&logo=duckdb&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/-ClickHouse-0052CC?style=for-the-badge&logo=clickhouse&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Redshift](https://img.shields.io/badge/-Redshift-FF0000?style=for-the-badge&logo=amazonredshift&logoColor=white)
+![Athena](https://img.shields.io/badge/-Athena-FF9900?style=for-the-badge&logo=amazonathena&logoColor=white)
 
 ## DevOps
 
