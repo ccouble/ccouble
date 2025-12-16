@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm an experienced **Software Developer** with a strong background in **data, automation, and SaaS**.  
+Hi, I'm an experienced **Software Developer** with a strong background in Data, Web and App developemnt.
 I love building **efficient and scalable solutions** using modern technologies.
 
 ## My Purpose
