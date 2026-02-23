@@ -26,6 +26,7 @@ Dataoma Data Catalog - Co-founder : https://www.dataoma.com
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-DD0031?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -65,7 +66,8 @@ Dataoma Data Catalog - Co-founder : https://www.dataoma.com
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
+![Axum](https://img.shields.io/badge/-Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
+![SQLx](https://img.shields.io/badge/-SQLx-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ## Databases
 ![Snowflake](https://img.shields.io/badge/-Snowflake-4F8FFB?style=for-the-badge&logo=snowflake&logoColor=white)
