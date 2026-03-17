@@ -1,12 +1,11 @@
 # About Me
 
-Hi, I'm an experienced **Software Developer** with a strong background in Data, Web and App development.
+Hi, I'm an experienced **Software Developer** with a strong background in Web and App development aswell in Data.
 I love building **elegant, efficient and scalable solutions** using modern technologies.
 
 ## My Purpose
 
-At the heart of the **data life cycle**, my mission is to design, build, and maintain environments for collecting, storing, moving, and processing data. I am fascinated by how much a company can **evolve and grow** by creating value from data,  
-and I am excited to be part of this transformative journey.
+At the heart of the **product lifecycle**, my mission is to design, build, and maintain environments for collecting, storing, moving, and processing data. I am fascinated by how much a company can **evolve and grow** by creating value from data,  and I am excited to be part of this transformative journey.
 
 Dataoma Data Catalog - Co-founder : https://www.dataoma.com
 
