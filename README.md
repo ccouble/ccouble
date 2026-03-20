@@ -7,11 +7,6 @@ I love building **elegant, efficient and scalable solutions** using modern techn
 
 At the heart of the **product lifecycle**, my mission is to design, build, and maintain environments for collecting, storing, moving, and processing data. I am fascinated by how much a company can **evolve and grow** by creating value from data,  and I am excited to be part of this transformative journey.
 
-Dataoma Data Catalog - Co-founder : https://www.dataoma.com
-
-[![Dataoma](https://img.shields.io/badge/-Dataoma-4CAF50?style=for-the-badge&logo=dataoma&logoColor=white)](https://www.dataoma.com)
-
-
 
 ## Languages
 
